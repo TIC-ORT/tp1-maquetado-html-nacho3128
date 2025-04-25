@@ -8,14 +8,24 @@ html, body {
  background-color: yellow;
 
 }
+.textinho{
+position: fixed;
+top: 5vh;
+left: 45%;
+background-color: orange;
+}
+.texto{
+position: relative;
+margin-left: 45%;
+top: 9vh;
+
+}
 .cuadrado1
 {
-position: absolute;
-top: 60px;
+position: fixed;
+top: 50px;
 left: 40vh;
 background-color: orange;
 width: 25vh;
-height: 20vh;
-
-
+height: 21vh;
 }
