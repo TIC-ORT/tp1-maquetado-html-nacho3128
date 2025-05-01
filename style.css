@@ -227,3 +227,55 @@ background-color: orange;
 left: 40vh;
 top: 60vh;
 }
+.cuadrado5{
+position: absolute;
+height: 20vh;
+width: 20vh;
+background-color: lightblue;
+left: 90vh;
+top: 60vh;
+}
+
+.cuadradochico5{
+position: absolute;
+height: 10vh;
+width: 10vh;
+background-color: blue;
+left: 95vh;
+top: 65vh;
+}
+
+.rectangulochico5{
+position:absolute;
+height: 2vh;
+width: 20vh;
+background-color: blue;
+left: 90vh;
+top: 60vh;
+}
+.cuadrado6{
+position: absolute;
+height: 20vh;
+width: 20vh;
+background-color: lightcoral;
+left: 140vh;
+top: 60vh;
+}
+    
+.cuadradochico6{
+position: absolute;
+height: 10vh;
+width: 10vh;
+background-color: red;
+left: 145vh;
+top: 65vh;
+}
+    
+.rectangulochico6{
+position:absolute;
+height: 2vh;
+width: 20vh;
+background-color: red;
+left: 140vh;
+top: 60vh;
+}
