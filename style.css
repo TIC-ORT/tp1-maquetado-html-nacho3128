@@ -24,7 +24,7 @@ top: 6vh;
 background-color: white;
 
 }
-.cuadrado1
+.cuadrado
 {
 position: absolute;
 top: 50px;
@@ -120,4 +120,110 @@ position: absolute;
 top: 90px;
 left: 145vh;
 background-color: white;
+}
+
+.cuadrado1{
+position: absolute;
+height: 20vh;
+width: 20vh;
+background-color: lightblue;
+top: 35vh;
+left: 40vh;
+}
+
+.cuadradochico1{
+position: absolute;
+height: 10vh;
+width: 10vh;
+background-color: blue;
+left: 45vh;
+top: 40vh;
+}
+
+.rectangulochico1{
+position:absolute;
+height: 2vh;
+width: 20vh;
+background-color: blue;
+left: 40vh;
+top: 35vh;
+}
+
+.cuadrado2{
+position: absolute;
+height: 20vh;
+width: 20vh;
+background-color: lightcoral;
+top: 35vh;
+left: 90vh;
+}
+
+.cuadradochico2{
+position: absolute;
+height: 10vh;
+width: 10vh;
+background-color: red;
+left: 95vh;
+top: 40vh;
+}
+
+.rectangulochico2{
+position:absolute;
+height: 2vh;
+width: 20vh;
+background-color: red;
+left: 90vh;
+top: 35vh;
+}
+.cuadrado3{
+position: absolute;
+height: 20vh;
+width: 20vh;
+background-color: #fcd00f;
+top: 35vh;
+left: 140vh;
+}
+
+.cuadradochico3{
+position: absolute;
+height: 10vh;
+width: 10vh;
+background-color: orange;
+left: 145vh;
+top: 40vh;
+}
+
+.rectangulochico3{
+position:absolute;
+height: 2vh;
+width: 20vh;
+background-color: orange;
+left: 140vh;
+top: 35vh;
+}
+.cuadrado4{
+position: absolute;
+height: 20vh;
+width: 20vh;
+background-color: #fcd00f;
+left: 40vh;
+top: 60vh;
+}
+
+.cuadradochico4{
+position: absolute;
+height: 10vh;
+width: 10vh;
+background-color: orange;
+left: 45vh;
+top: 65vh;
+}
+
+.rectangulochico4{
+position:absolute;
+height: 2vh;
+width: 20vh;
+background-color: orange;
+left: 40vh;
+top: 60vh;
 }
